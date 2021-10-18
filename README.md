@@ -3,7 +3,7 @@
 Usage:
 
 1. Install package `npm install deep-lock`
-2. Extend your configs:
+2. Usage:
 
 ```
 import deepLock from 'deep-lock`
